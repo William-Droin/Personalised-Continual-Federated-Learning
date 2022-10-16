@@ -12,4 +12,4 @@ This is part of a 3rd year personal research project at the University of Exeter
 #### Phase 1
 A centralised server distributes a general models on the devices:
 
-<img src="https://user-images.githubusercontent.com/72973649/196041230-94538f80-d7a3-4994-bafc-df60feb0308e.png" width="100">
+<img src="https://user-images.githubusercontent.com/72973649/196041230-94538f80-d7a3-4994-bafc-df60feb0308e.png" width="300">
