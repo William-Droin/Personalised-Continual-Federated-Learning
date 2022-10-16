@@ -16,4 +16,4 @@ A centralised server distributes a general models on the devices:
 
 #### Phase 2
 
-<img src="https://user-images.githubusercontent.com/72973649/196041230-94538f80-d7a3-4994-bafc-df60feb0308e.png" width="300">
+<img src="https://user-images.githubusercontent.com/72973649/196043243-523860ed-c63b-431a-8566-0859d9732658.png" width="300">
