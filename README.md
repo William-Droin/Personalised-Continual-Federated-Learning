@@ -25,7 +25,7 @@ Models are sent back to the server to be analysed and compared
 <img src="https://user-images.githubusercontent.com/72973649/196043437-ee0b5dc8-7489-4c63-8978-25e0ef319123.png" width="300">
 
 ### Phase 4
-Devices are divide into clusters based on the similarities of their models. 
+Devices are divided into clusters based on the similarities of their models. 
 There is no longer a single general model being distributed to all devices like in traditional federated learning, instead, there is a one general model per cluster and devices only share their knowledge with devices from the same cluster. 
 New devices are going through phase 1 again before being assigned to a cluster.
 
