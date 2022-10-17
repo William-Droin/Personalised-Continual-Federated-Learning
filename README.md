@@ -25,6 +25,6 @@ Models are sent back to the server to be analysed and compared
 <img src="https://user-images.githubusercontent.com/72973649/196043437-ee0b5dc8-7489-4c63-8978-25e0ef319123.png" width="300">
 
 ### Phase 4
-Devices are divide into clusters based on the similarities of their models 
+Devices are divide into clusters based on the similarities of their models and new devices are going through phase 1 again before being assigned to a cluster.
 
 <img src="https://user-images.githubusercontent.com/72973649/196045030-b7de07b7-8097-4568-b60f-b81c59aa8665.png" width="400">
